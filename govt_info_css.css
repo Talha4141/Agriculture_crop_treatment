@@ -1,0 +1,15 @@
+
+  #body1{
+  background-image: url('black.png');
+  background-size:cover;
+  background-position: center;
+  height: 100vh;
+}
+
+h2{
+
+  color: White;
+  text-align:center; ;
+  size: 100px;
+  text-decoration-line: none;
+}

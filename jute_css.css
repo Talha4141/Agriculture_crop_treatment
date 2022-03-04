@@ -1,0 +1,151 @@
+body{
+    background-image: url('b1.jpg');
+    background-size:cover;
+    background-position: center;
+    height: 100vh;
+}
+.button {
+
+    min-width: 100px;
+    margin-left:170px;
+    display: inline-block;
+    padding: 6px 6px ;
+    font-size: 14px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: #663300;
+    border: none;
+    border-radius: 25px;
+    box-shadow: 0 5px #999;
+    margin-top: 20px;
+    width: 250px;
+
+}
+
+.button:hover {background-color: #3e8e41}
+
+.button:active {
+    background-color: #3e8e41;
+    box-shadow: 0 5px #666;
+
+    transform: translateY(4px);
+}
+
+.buttonnn{
+
+    background-color: #663300;
+    padding: 8px 8px 8px 8px;
+    color: white;
+    margin-left: 380px;
+    display: inline-block;
+    font-size: 15px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 5px #999;
+    margin-top: 30px;
+    width: 290px;}
+.buttonnn:hover {background-color: #3e8e41}
+
+.buttonnn:active {
+    background-color: #3e8e41;
+    box-shadow: 0 5px #666;
+
+    transform: translateY(4px);
+}
+
+
+.search_bar
+{
+    float: right ;
+    border-radius: 3px;
+
+}
+
+
+.table-design
+{
+    border-collapse: collapse;
+    width: 100%;
+    color: green;
+    font-family: sans-serif;
+    text-align:center;  
+    padding: 20px;
+    margin-top: 15px;
+}
+
+.row{
+    border-collapse: collapse;
+    height: 50%;
+    width: 10%;
+    color:white;
+    font-family: sans-serif;
+    font-size: 10px;
+    text-align:center;   
+}
+
+
+.a{
+    width:1% ;
+    height: 2%;
+    font-size: 12px;
+
+}
+.b{
+    width:3.7% ;
+    font-size: 12px;
+
+}
+.c{
+    width:5% ;
+    font-size: 12px;
+}
+.d{
+    width:10% ;
+    font-size: 12px;
+}
+.e{
+    width:8% ;
+    font-size: 12px;
+}
+
+.f{
+    width:8% ;
+    font-size: 12px;
+}
+
+
+
+.aa{
+    width:4% ;
+    font-size: 15px;  
+}
+.bb{
+    width:6% ;
+    font-size: 15px;
+}
+.cc{
+    width:5% ;
+    font-size: 15px;
+}
+.dd{
+    width:8% ;
+    font-size: 15px;
+}
+.ee{
+    width:12% ;
+    font-size: 15px;
+}
+.ff{
+    width:9% ;
+    font-size: 15px;
+}
+
+

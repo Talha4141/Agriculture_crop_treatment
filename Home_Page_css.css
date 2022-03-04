@@ -1,0 +1,84 @@
+h1{
+
+    color: black;
+    text-align: center;
+    size: 100px;
+
+}
+
+#body1{
+    background-image: url('tott.jpg'); 
+    background-position: center;
+    background-size:cover;
+    height: 100vh;
+
+}
+
+
+.btn
+{
+    min-width: 100px;
+    margin: 10px;
+    display: inline-block;
+    padding: 12px 12px ;
+    font-size: 17px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration:none;
+    outline: none;
+    color: #fff;
+    background-color: #663300;
+    border: none;
+    border-radius: 25px;
+    box-shadow: 0 5px #999;
+    margin-top: 10px;
+    width: 150px;
+    margin-left: 130px;
+
+}
+
+.btn:hover {background-color: #3e8e41}
+
+.btn:active {
+    background-color: #3e8e41;
+    box-shadow: 0 5px #666;
+
+    transform: translateY(4px);
+}
+
+
+.btn1
+{
+    padding: 12px 20px;
+    min-width: 100px;
+    margin: 10px;
+    display: inline-block;
+    padding: 8px 8px ;
+    font-size: 17px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: #663300;
+    border: none;
+    border-radius: 25px;
+    box-shadow: 0 5px #999;
+    margin-top: 100px;
+    width: 150px;
+    margin-left: 130px;
+
+}
+
+.btn1:hover {background-color: #3e8e41}
+
+.btn1:active {
+    background-color: #3e8e41;
+    box-shadow: 0 5px #666;
+
+    transform: translateY(4px);
+}
+
+
+
+

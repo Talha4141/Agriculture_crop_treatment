@@ -1,0 +1,60 @@
+
+* {
+    box-sizing: border-box;
+}
+
+
+
+
+
+body{
+    background-image: url('help.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+
+
+h1{
+
+    color:white;
+    text-align:left ;
+    size: 50px;
+    text-decoration: none;
+}
+
+h2{
+
+    color:white;
+    text-align:left ;
+    size: 55px;
+    text-decoration: none;
+}
+.link
+{
+    font-size: 25px;
+}
+
+.a{
+    text-align: center;
+}
+
+h3
+{
+    color: white;
+
+
+    text-align:left ;
+    size: 55px;
+    text-decoration: none;
+}
+
+p{
+    color: white;
+}
+
+.help_center
+{
+    float: center;
+    text-align: center;
+}

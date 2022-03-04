@@ -1,0 +1,19 @@
+h2{
+
+  color: White;
+  text-align:center; ;
+  size: 100px;
+  text-decoration-line: none;
+}
+
+
+#body1{
+	background-image: url('b3.jpg');
+	background-size:cover;
+        background-position: center;
+        height:100vh;
+}
+a{
+    color: red;
+}
+

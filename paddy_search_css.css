@@ -1,0 +1,33 @@
+body{
+    background-image:url('b1.jpg');
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    color: white;
+}
+
+.table-design
+{
+
+    border-collapse: collapse;
+    width: 90%;
+    color: green;
+    font-family: sans-serif;
+    font-size: 14px;
+    text-align:left;
+}
+
+.a{
+    width:5% ;
+    font-size: 14px;
+
+}
+.b{
+    width:5% ;
+    font-size: 14px;
+
+}
+.c{
+    width:5% ;
+    font-size: 14px;
+}
